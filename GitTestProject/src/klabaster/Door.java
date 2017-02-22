@@ -1,8 +1,7 @@
 package klabaster;
 
-public class Desk {
+public class Door {
 	public String getDescription() {
-		// Hurr Durr
-		return "ein Tisch";
+		return "eine Tür";
 	} // getDescription()
-} // class
+} // class 
