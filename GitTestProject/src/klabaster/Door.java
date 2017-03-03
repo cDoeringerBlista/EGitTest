@@ -5,5 +5,6 @@ public class Door {
 		return "eine Tür";
 		// Hurr Durr
 		// Hurr Durr 2
+		// hUrr Durr 3
 	} // getDescription()
 } // class 
