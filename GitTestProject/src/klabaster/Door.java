@@ -6,5 +6,6 @@ public class Door {
 		// Hurr Durr
 		// Hurr Durr 2
 		// hUrr Durr 3
+		// Hurr Durr 4
 	} // getDescription()
 } // class 
