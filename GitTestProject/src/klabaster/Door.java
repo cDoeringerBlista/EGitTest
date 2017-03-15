@@ -3,6 +3,6 @@ package klabaster;
 public class Door {
 	public String getDescription() { 
 		return "eine Tür";
-		// Verursachen eines Konflikts lokale Seite
+		// Verursachen eines Konflikts remote Seite
 	} // getDescription()
 } // class 
