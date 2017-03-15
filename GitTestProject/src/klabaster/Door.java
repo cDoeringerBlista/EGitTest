@@ -3,6 +3,6 @@ package klabaster;
 public class Door {
 	public String getDescription() { 
 		return "eine TÃ¼r";
-		// Verursachen eines Konflikts remote Seite
+		// Ändern und von Eclipse zu GitHub
 	} // getDescription()
 } // class 
