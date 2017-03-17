@@ -8,5 +8,6 @@ public class Klabatsch {
 		Desk desk = new Desk();
 		System.out.println(desk.getDescription());
 		// Hurr Durr
+		// Testkommentar Thilo
 	} // main()
 } // class
