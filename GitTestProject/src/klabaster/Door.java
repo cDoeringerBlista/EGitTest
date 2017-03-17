@@ -2,7 +2,7 @@ package klabaster;
 
 public class Door {
 	public String getDescription() { 
-		return "eine TÃ¼r";
+		return "Hurr";
 		// Ändern und von Eclipse zu GitHub
 		// Änderung xyz
 	} // getDescription()
